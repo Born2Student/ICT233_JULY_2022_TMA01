@@ -44,4 +44,7 @@ There are 4 synthetic datasets which capture the project management data of an o
 
 ![alt text](https://github.com/Born2Student/ICT233_JULY_2022_TMA01/blob/main/Task_State_Change_Diagram.png?raw=true)
 
+Note that, the arrows in the above diagram indicate valid state transitions. No arrow from done to implementation mean the transition from done back to implementation is not allowed.
+
+
 
