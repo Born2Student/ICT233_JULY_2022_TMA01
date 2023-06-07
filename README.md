@@ -48,3 +48,13 @@ Note that, the arrows in the above diagram indicate valid state transitions. No 
 
 
 
+**Question 2 (54 marks)**
+
+**Objectives:**
++ Understand dataset with data scientist mindset.
+
++ Design computation logic and routines in Python.
+
++ Conduct visualization in an appropriate way.
+
++ Assess the design and use of database ORM / SQLite methods to perform extract, load, transformation and calculation operations.
