@@ -25,4 +25,6 @@ There are 4 synthetic datasets which capture the project management data of an o
 
 3. tasks.csv: contains a set of tasks. Each row contains (id, description, assignee, sprint, team, story_points).
 
-Column name             | 
+Column name | Description
+
+id: @nbsp;
