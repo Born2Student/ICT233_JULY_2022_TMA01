@@ -27,4 +27,14 @@ There are 4 synthetic datasets which capture the project management data of an o
 
 Column name | Description
 
-id: @nbsp;
+id: The task ID
+
+description: The task description
+
+assignee: The user ID of the person who is assigned to work on the task This column references the id column in the users.csv.
+
+sprint: The sprint id, for example, 1 is the first sprint in Scrum project management framework.
+
+team: The team ID which the task is owned. This column references the id column in the teams.csv.
+
+story_points: The Scrum story points represent the effort / complexity of the task. The larger number of story points is, the more effort required to complete the task by the assignee is.
