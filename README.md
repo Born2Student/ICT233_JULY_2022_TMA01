@@ -42,5 +42,6 @@ There are 4 synthetic datasets which capture the project management data of an o
 
 4. state-transitions.csv: contains a set of state transitions of tasks. Each row contains (id, task_id, state). Whenever a task changes its state, there is a corresponding row in the csv. The valid state transitions are captured in the following diagram.
 
-![alt text](http://url/to/Task_State_Change_Diagram.png)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Task_State_Change_Diagram.png?raw=true)
+
 
