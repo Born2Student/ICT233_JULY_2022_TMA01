@@ -25,12 +25,11 @@ There are 4 synthetic datasets which capture the project management data of an o
 
 3. tasks.csv: contains a set of tasks. Each row contains (id, description, assignee, sprint, team, story_points).
 
-![alt text](https://github.com/Born2Student/ICT233_JULY_2022_TMA01/blob/main/Task_State_Change_Diagram.png?raw=true)
-
+![alt text](https://github.com/Born2Student/ICT233_JULY_2022_TMA01/blob/main/Project_Management_Data_Table.png?raw=true)
 
 4. state-transitions.csv: contains a set of state transitions of tasks. Each row contains (id, task_id, state). Whenever a task changes its state, there is a corresponding row in the csv. The valid state transitions are captured in the following diagram.
 
-![alt text](https://github.com/Born2Student/ICT233_JULY_2022_TMA01/blob/main/Project_Management_Data_Table.png?raw=true)
+![alt text](https://github.com/Born2Student/ICT233_JULY_2022_TMA01/blob/main/Task_State_Change_Diagram.png?raw=true)
 
 Note that, the arrows in the above diagram indicate valid state transitions. No arrow from done to implementation mean the transition from done back to implementation is not allowed.
 
