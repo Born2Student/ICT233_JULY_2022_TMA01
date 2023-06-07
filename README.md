@@ -39,6 +39,7 @@ There are 4 synthetic datasets which capture the project management data of an o
 
 **story_points:** The Scrum story points represent the effort / complexity of the task. The larger number of story points is, the more effort required to complete the task by the assignee is.
 
+
 4. state-transitions.csv: contains a set of state transitions of tasks. Each row contains (id, task_id, state). Whenever a task changes its state, there is a corresponding row in the csv. The valid state transitions are captured in the following diagram.
 
 
