@@ -1,6 +1,6 @@
-# ICT233_JULY_2022_TMA01
+# ICT233 - Data Programming
 
-**ICT233 Data Programming July 2022 Semester Tutor-Marked-Assignment (TMA01)**
+# ICT233 Tutor-Marked Assignment (TMA01) - July Semester 2022
 
 **Question 1 (46 marks)**
 
